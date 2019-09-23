@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563262252221",
+    "firebase_url": "https://nirofirebasenew.firebaseio.com",
+    "project_id": "nirofirebasenew",
+    "storage_bucket": "nirofirebasenew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563262252221:android:37056a9e13fb851307c3d4",
+        "android_client_info": {
+          "package_name": "com.example.nirofirebasenew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563262252221-m8cq4hp7dt5j2taaj2cqsvjo6681jttr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nirofirebasenew",
+            "certificate_hash": "9de244f5971eeeb8f74b3d4a8b0ec8f2c300e3e3"
+          }
+        },
+        {
+          "client_id": "563262252221-nqlt8l4flf7cq9fcpk963d31c010fvr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtZvQaVTtd_iel42qrigWJpy1BPZX-4NM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563262252221-nqlt8l4flf7cq9fcpk963d31c010fvr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
